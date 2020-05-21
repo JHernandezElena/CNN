@@ -1,2 +1,2 @@
-# Deep Learning with CNN
+# Convolutional Neural Network for Image Classification
  
